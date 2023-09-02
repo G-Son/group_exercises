@@ -44,7 +44,9 @@ void names(){
     cin >> lastname;
     cout << "Reverse: "<< lastname << " " << name << endl;
 }
-
+ 
+ int test = 1;
+ 
 int main()
 {
     version();
